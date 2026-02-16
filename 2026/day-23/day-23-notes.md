@@ -19,3 +19,9 @@ If i want repository in my local i will use clone but if i want other repository
 
 After forking, how do you keep your fork in sync with the original repo?
 We use sync fork to keep our fork in sync with the original repository.
+
+What is the difference between origin and upstream?
+If i make a repository then it should be origin but if i fork from other repository it will show upstream.
+
+What is the difference between git fetch and git pull?
+git fetch can download changes from remote and don't change our local code on the other hand git pull download the changes as well as merge into our current branch.
