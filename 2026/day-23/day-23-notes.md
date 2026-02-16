@@ -9,3 +9,13 @@ Head point the current working branch.
 
 What happens to your files when you switch branches?
 When you switch branches in Git, Git changes the files in your working folder to match the snapshot stored in the target branch’s latest commit.
+
+What is the difference between clone and fork?
+We use clone to make copy of repository from remote to local
+and fork is use to copy repository from other remote repository to your remote repository 
+
+When would you clone vs fork?
+If i want repository in my local i will use clone but if i want other repository to my remote i use fork.
+
+After forking, how do you keep your fork in sync with the original repo?
+We use sync fork to keep our fork in sync with the original repository.
