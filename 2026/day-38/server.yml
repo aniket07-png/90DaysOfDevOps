@@ -1,0 +1,22 @@
+---
+server : 
+  name : nginx-demo
+  ip : 54.208.188.75
+  port : 80
+
+database : 
+  host : localhost
+  name : mongodb
+  credentials :
+    user : root
+    password : root@07
+
+startup_script : |
+  Script
+  is
+  Starting 
+
+script_startup : >
+  Script
+  is
+  Starting 
